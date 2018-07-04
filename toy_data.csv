@@ -1,0 +1,10 @@
+PersonID,Age,LikesGardening,PlaysVideoGames,LikesHats
+1,13,False,True,True
+2,14,False,True,False
+3,15,False,True,False
+4,25,True,True,True
+5,35,False,True,True
+6,49,True,False,False
+7,68,True,True,True
+8,71,True,False,False
+9,73,True,False,True
